@@ -3,7 +3,7 @@ This is simple chart for TinyCLR
 
 ## How to use
 
-Just add the library to your project and here the snippet:
+Just add the library to your project and here is the snippet:
 
 ```
 var datas = new ArrayList();
