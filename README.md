@@ -1,6 +1,10 @@
 # TinyCLR.BitmapChart
 This is simple chart for TinyCLR
 
+![Chart 1](https://storagemurahaje.blob.core.windows.net/github/chart1.jpeg)
+
+![Chart 2](https://storagemurahaje.blob.core.windows.net/github/chart2.jpeg)
+
 ## How to use
 
 Just add the library to your project and here is the snippet:
